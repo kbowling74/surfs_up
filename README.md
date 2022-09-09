@@ -7,7 +7,11 @@ In hopes of opening an ice cream shop on the Hawaiin island of Oahu, weather dat
 ### Results
 The summary statistics for temperatures during the month of June and December were asked for by the potential investor. The following images are screen shots of the tables that were created.
 <br><br>
-** both images
+<img width="148" alt="Screen Shot 2022-09-07 at 10 15 12 AM" src="https://user-images.githubusercontent.com/106560606/189249954-e4b263d2-c374-4d6d-9fca-d95855534d4a.png">
+
+<br><br>
+![Screen Shot 2022-09-08 at 6 37 36 PM](https://user-images.githubusercontent.com/106560606/189249965-aa55f06f-4463-4885-b881-b6afce151d6d.png)
+
 <br><br>
 From these summary statistics there are three differences between June and December temperatures:
 - June has a warmer average at 74.9 degrees compared to 71.0 degrees for December. 
